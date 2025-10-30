@@ -1,0 +1,13 @@
+Source,Destination,Distance
+A,B,10
+B,A,12
+A,C,15
+C,A,14
+B,C,8
+C,B,9
+A,D,20
+D,A,21
+B,D,11
+D,B,13
+C,D,7
+D,C,6
